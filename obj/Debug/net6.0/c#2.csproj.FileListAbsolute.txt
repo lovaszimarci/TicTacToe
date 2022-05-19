@@ -1,0 +1,15 @@
+C:\Users\Felhasználó\.vscode\c#2\bin\Debug\net6.0\c#2.exe
+C:\Users\Felhasználó\.vscode\c#2\bin\Debug\net6.0\c#2.deps.json
+C:\Users\Felhasználó\.vscode\c#2\bin\Debug\net6.0\c#2.runtimeconfig.json
+C:\Users\Felhasználó\.vscode\c#2\bin\Debug\net6.0\c#2.dll
+C:\Users\Felhasználó\.vscode\c#2\bin\Debug\net6.0\c#2.pdb
+C:\Users\Felhasználó\.vscode\c#2\obj\Debug\net6.0\c#2.csproj.AssemblyReference.cache
+C:\Users\Felhasználó\.vscode\c#2\obj\Debug\net6.0\c#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felhasználó\.vscode\c#2\obj\Debug\net6.0\c#2.AssemblyInfoInputs.cache
+C:\Users\Felhasználó\.vscode\c#2\obj\Debug\net6.0\c#2.AssemblyInfo.cs
+C:\Users\Felhasználó\.vscode\c#2\obj\Debug\net6.0\c#2.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\.vscode\c#2\obj\Debug\net6.0\c#2.dll
+C:\Users\Felhasználó\.vscode\c#2\obj\Debug\net6.0\refint\c#2.dll
+C:\Users\Felhasználó\.vscode\c#2\obj\Debug\net6.0\c#2.pdb
+C:\Users\Felhasználó\.vscode\c#2\obj\Debug\net6.0\c#2.genruntimeconfig.cache
+C:\Users\Felhasználó\.vscode\c#2\obj\Debug\net6.0\ref\c#2.dll
